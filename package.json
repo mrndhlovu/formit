@@ -1,0 +1,12 @@
+{
+  "name": "formit",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "repository": "https://github.com/mrndhlovu/formit",
+  "author": "Mduduzi Ndhlovu <mrndhlovuie@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "formik": "^2.2.9"
+  }
+}
